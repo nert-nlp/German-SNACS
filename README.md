@@ -8,4 +8,5 @@ Complete README coming soon! In the meantime, check out the English [STREUSLE co
 - v0.1.csv: The entire Little Prince (27 chapters), preliminary annotations (may be noisy)
 - v0.2.csv: 5 chapters from the Little Prince (1, 2, 3, 6, 7), revised annotations
 
+## Questions or Requests?
 Please reach out with any questions (email on my [website](https://prange.jakob.georgetown.domains/)) or open an issue!
