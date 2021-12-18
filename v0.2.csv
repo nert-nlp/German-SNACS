@@ -2320,9 +2320,3 @@ OFFSET,TOKEN,LEMMA,UPOS,XPOS,MORPH,HEAD,DEPREL,,,SMWE,,LEXLEMMA,SCENE ROLE,FUNCT
 22,voller,voller,ADJA,ADJA,_,23,advmod,_,_,_,_,_,_,_
 23,Geheimnisse,geheimnisse,NOUN,NN,Number=Sing,2,parataxis,_,_,_,_,_,_,_
 24,.,.,$.,$.,_,2,punct,_,_,_,_,_,_,_
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,all difficult,
-,PRON_DAT,,,,,,,,,,,10,6,0
-,PRON_POSS,,,,,,,,,,,15,11,9
-,,,,,,,,,,,,,,"CO & LS agree, JP disagrees"
-,,,,,,,,,,,,,,1 honest mistake by CO & LS (sein Haar); 8 instances of the same debatable case
